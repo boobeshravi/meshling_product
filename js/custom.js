@@ -77,10 +77,10 @@
         document.getElementById("header_img").src="./images/logo.png";
       } else {
         mybutton.style.display = "none";
-        if(screen.width != 540){
-          document.getElementById("header_img").src="./images/logo_white.png";
-          // document.getElementById("dropdown_elem").style.position = "fixed";
-        }
+        // if(screen.width != 540){
+        //   document.getElementById("header_img").src="./images/logo_white.png";
+        //   // document.getElementById("dropdown_elem").style.position = "fixed";
+        // }
       }
     }
 /*
