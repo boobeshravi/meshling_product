@@ -11,8 +11,7 @@ http://www.templatemo.com/tm-515-eatery
   body {
     background: #ffffff;
     font-family: 'Montserrat', sans-serif;
-    overflow-x: hidden;
-    
+    overflow-x: hidden;    
   }
 
   /*---------------------------------------
@@ -474,26 +473,26 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../images/slider-image2.jpg);
+    background-image: url(../images/mesling_images/street_lights/highway-2617094.jpg);
   }
 
   .slider .item-second {
-    background-image: url(../images/slider-image2.jpg);
+    background-image: url(../images/solutions/streetlight1.jpg);
   }
 
   .slider .item-third {
-    background-image: url(../images/gifs169/canvas_lr_smart_tracking_low.jpg);
+    background-image: url(../images/solutions/tracking1.jpg);
   }
 
   .slider .item-fourth {
-    background-image: url(../images/solutions/smart\ energy\ full.png);
+    background-image: url(../images/solutions/energy1.png);
   }
 
   .slider .item-fifth {
-    background-image: url(../images/solutions/smart\ infrastructure2.png);
+    background-image: url(../images/solutions/infra1.jpg);
   }
   .slider .item-sixth {
-    background-image: url(../images/solutions/smart\ agriculture3.png);
+    background-image: url(../images/solutions/agri1.jpg);
   }
   .slider .item-second .section-btn {
     background: #ce3232;
