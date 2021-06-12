@@ -469,7 +469,7 @@ http://www.templatemo.com/tm-515-eatery
     background-repeat: no-repeat;
     background-attachment: local;
     background-size: cover;
-    height: 650px;
+    height: 730px;
   }
 
   .slider .item-first {
@@ -477,7 +477,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-second {
-    background-image: url(../images/solutions/streetlight1.jpg);
+    background-image: url(../images/solutions/ssl3.png);
   }
 
   .slider .item-third {
@@ -493,6 +493,9 @@ http://www.templatemo.com/tm-515-eatery
   }
   .slider .item-sixth {
     background-image: url(../images/solutions/agri1.jpg);
+  }
+  .slider .item-seventh {
+    background-image: url(../images/technology.png);
   }
   .slider .item-second .section-btn {
     background: #ce3232;
